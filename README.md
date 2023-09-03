@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shailesh Singh
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Data Structures and Algorithms
-- I'm currently learning React
+- 👋 I'm currently learning React
 - 👉 Reach me - https://www.linkedin.com/in/shailesh-singh-3146261b7
 
 <!---
